@@ -1,4 +1,4 @@
-alert("Hola este es mi Javascript");
+alert("BIENVENIDO!!!");
 let nombre = "Javier"
 nombre= "Alejandro";
 const apellido = "Rodriguez"

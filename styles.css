@@ -175,9 +175,9 @@ footer div ul li a {
   border: 1px solid #d6d9dc;
   border-radius: 10px;
 
-  width: 80%;
+  width: 100%;
   padding: 50px;
-  margin: 30px 0 40px 0;
+  margin: 30px 0 30px 0;
 }
 /* ------------- Campos del Formulario ------------- */
 
@@ -204,7 +204,7 @@ footer div ul li a {
   text-align: initial;
 }
 .form-row textarea {
-  font-family: "Helvetica", "Arial", sans-serif;
+  font-family:  'Abel', sans-serif;
   font-size: 14px;
 
 
@@ -223,12 +223,12 @@ footer div ul li a {
 }
 
 .form-row button {
-  font-size: 16px;
+  font-size: 20px;
   font-weight: bold;
-
+  font-family: 'Abel', sans-serif;
 
   color: #ffffff;
-  background-color: #5995da;
+  background-color: rgb(40, 40, 40);
 
 
   border: none;
@@ -241,12 +241,12 @@ footer div ul li a {
 
 
 .form-row button:hover {
-  background-color: #76aeed;
+  background-color: #e0c840;
 }
 
 
 .form-row button:active {
-  background-color: #407fc7;
+  background-color: #e0c840;
 }
 
 
